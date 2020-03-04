@@ -4,14 +4,14 @@ I am **a Full Stack Engineer** with **5**-year experience. Currently, I am worki
 
 ## Working Experience
 
-- Western Union, San Fransisco, CA                                         Aug 2019 - Present 
+- Western Union, San Fransisco, CA                                                                          Aug 2019 - Present 
   - Skill Set: HTML5, CSS3, Bootstrap4, JavaSctipt, React, React-Router, React-Thunk, React-Redux, Node.js, Express, MongoDB, NoSQL, RESTful API
-- Anthem, Inc., Richmond, VA                                                  Jan 2018 - Aug 2019
+- Anthem, Inc., Richmond, VA                                                                               Jan 2018 - Aug 2019
   - Skill Set: HTML5, CSS3, Bootstrap, JavaScript, React, React-Router, Node.js, Express, MySQL, SQL, RESTful API
-- Verizon, LA, CA                                                                        Dec 2016 - Apr 2017
-- SSB Software, Anaheim, CA                                                May 2015 - Nov 2016
+- Verizon, LA, CA                                                                                          Dec 2016 - Apr 2017
+- SSB Software, Anaheim, CA                                                                                May 2015 - Nov 2016
 
-
+    
 # Porject Demo
 ![tags](./tags.gif)
 ![react-validation](./react-hooks-form-validation.gif)
